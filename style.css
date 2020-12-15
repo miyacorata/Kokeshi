@@ -34,7 +34,7 @@ h2{
     border-bottom: 1px dashed gray;
 }
 
-#kokeshis{
+.kokeshis{
     display: flex;
     padding: 10px;
     justify-content: center;
